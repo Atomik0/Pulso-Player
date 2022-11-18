@@ -2,7 +2,7 @@
 
 [![N|Solid](https://vktrdev.cl/github/PulsoPlayer/wordpresslogo.png)](https://cl.wordpress.org/)
 
-Incrusta un player con tu radio shoutcast en tu sitio web!
+Incrusta un player en el pié de página con tu radio shoutcast en tu sitio web!
 
 ## ¿Qué Incluye?
 
