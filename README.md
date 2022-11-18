@@ -1,4 +1,4 @@
-## _Pulso Player_
+## _Pulso Player (Plugin WordPress)_
 
 [![N|Solid](https://vktrdev.cl/github/PulsoPlayer/wordpresslogo.png)](https://cl.wordpress.org/)
 
