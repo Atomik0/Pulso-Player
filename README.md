@@ -1,6 +1,19 @@
-# Pulso-Player
-Wordpres Plugin
+## _Pulso Player_
 
-ZIP All files (assets, config.php, player.php, vktrdev.php), upload on plugins folder and activate it!
+[![N|Solid](https://vktrdev.cl/github/PulsoPlayer/wordpresslogo.png)](https://cl.wordpress.org/)
 
-Just configure [CONFIG.PHP] and enjoy ;D
+Incrusta un player con tu radio shoutcast en tu sitio web!
+
+## ¿Qué Incluye?
+
+- Play/Pausa, Control de volumen.
+- Pestaña nueva con reproductor.
+- Ahora Sonando:
+
+[![N|Solid](https://vktrdev.cl/github/PulsoPlayer/player.png)](https://vktrdev.cl/radiopulso/)
+
+## Instalación
+
+Has un ZIP de todos los archivos (assets, config.php, player.php y vktrdev.php), ve a tu administrador de plugins en WordPress e instala el ZIP que acabas de hacer.
+
+Para configurar, simplemente edita el atchivo config.php con los datos correspondientes.
