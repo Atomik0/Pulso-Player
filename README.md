@@ -14,6 +14,6 @@ Incrusta un player en el pié de página con tu radio shoutcast en tu sitio web!
 
 ## Instalación
 
-Has un ZIP de todos los archivos (assets, config.php, player.php y vktrdev.php), ve a tu administrador de plugins en WordPress e instala el ZIP que acabas de hacer.
+Haz un ZIP de todos los archivos (assets, config.php, player.php y vktrdev.php), ve a tu administrador de plugins en WordPress e instala el ZIP que acabas de hacer.
 
 Para configurar, simplemente edita el atchivo config.php con los datos correspondientes.
